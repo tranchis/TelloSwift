@@ -6,6 +6,6 @@ The code in this repo is almost a line-to-line translation of the [Python packag
 
 ## How to test
 
-There are still not enough tests to use this framework reliable. *Please use at your own risk.*
+There are still not enough tests to be confident that this framework can be used reliably. *Please use at your own risk.*
 
 If you want to do a quick test, run the playground at `TelloSwiftFrameworkTests/TakeoffExample.playground`.
